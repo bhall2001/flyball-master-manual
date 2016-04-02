@@ -1,4 +1,4 @@
 # Summary
 
-* Tournament Schedule
+* [Tournament Schedule](tournament_schedule.md)
 
