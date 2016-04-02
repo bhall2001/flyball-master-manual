@@ -53,6 +53,11 @@ A team should be allowed a minimum 45 minutes of rest before racing again. In a 
 
 It is recommended that a club have a minimum of 3 races between racing so that members are able to transition between races.
 
+###Resolving Conflicts
+Resolving conflicts is easy with Flyball Master. First step is to eliminate as many of the red conflicts as you can. Conflict resolution does take some practice. To move a conflicting race to a new location, simply click and drag (hold down the mouse button) to move the race to a new location.
+
+Release the mouse button to insert the race at the new location. Flyball Master's conflict resolution engine kicks in at this point. Any changes to conflicts are immediately displayed on the screen.
+
 ###Schedule Export
 Once a schedule is created, you can export it our of Flyball Master. This allows creation of file that can be used to communicate the schedule to teams. Also, teams are able to create there on custom race schedule forms for the event.
 
