@@ -4,7 +4,7 @@
 
 Everything you need to Score and Inform including:
 
-* Intuitive, easy to read, User Interface
+* Intuitive, easy to read User Interface
 * Easy Schedule Conflict Resolution
 * Intuitive Scoring Interface
 * Live Race Updates for Participants
