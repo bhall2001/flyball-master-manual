@@ -32,7 +32,7 @@ In the example line above, MC is the club abbreviation of "Mass Chaos" and "Butt
 Must be a number. For divisions with no breakout time use "0".
 
 ###Race Format
-Must be text. The preferred format is "3 of 3" or "3 of 5".
+Must be text. The data must be of the form "<integer> of <integer>". Examples are "3 of 5" or "4 of 4".
 
 ###Division
 Must be a single letter {O, R, M, V} representing the class followed by an number.
