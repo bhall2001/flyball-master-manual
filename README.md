@@ -9,7 +9,7 @@ Everything you need to Score and Inform including:
 * Intuitive Scoring Interface
 * Live Race Updates for Participants
 * Online Race Results (coming soon...)
-* Race Time Estimates
+* Racing, On Deck and In The Hole with Race Time Estimates 
 * Event "Jumbotron" (coming soon...)
 * Runs on Windows and Mac
 
