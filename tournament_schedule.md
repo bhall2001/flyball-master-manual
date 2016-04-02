@@ -49,9 +49,9 @@ A conflict is defined by how many races thee are from the current race to the ne
 
 To change the conflict numbers, navigate to the settings screen. You will see 2 fields there allowing for input of club and team conflict race intervals.
 
-It is recommended that a team have a minimum 45 minutes of rest before racing again. In a typical single ring round robin Flyball Tournament, team conflict should be set to 6.
+A team should be allowed a minimum 45 minutes of rest before racing again. In a typical single ring round robin Flyball Tournament, team conflict should be set to 6.
 
-It is recommended that a club have a minimum of 3 races between racing so that members are able to transition in adequate time.
+It is recommended that a club have a minimum of 3 races between racing so that members are able to transition between races.
 
 ###Schedule Export
 Once a schedule is created, you can export it our of Flyball Master. This allows creation of file that can be used to communicate the schedule to teams. Also, teams are able to create there on custom race schedule forms for the event.
