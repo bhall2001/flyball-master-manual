@@ -1,7 +1,9 @@
 # Flyball Master 1.0 Manual
 
 
+Thank you for your interest in Flyball Master. My goal with this project is to bring a robust, modern scoring application to the sport we love. Flyball Master is an evolving project. There are lots of features to be added to the system. Your feedback is VERY welcome. Please let us know what you like and don't like about the software.
 
+## Features
 Everything you need to Score and Inform including:
 
 * Intuitive, easy to read User Interface
@@ -13,4 +15,4 @@ Everything you need to Score and Inform including:
 * Event "Jumbotron" (coming soon...)
 * Runs on Windows and Mac
 
-Flyball Master 1.0.0 is just the start. There's a lot of great features planned and being worked on. Your support fosters the development of the software and makes the system even better.
+Your support fosters the development of the software and makes the system even better. Please spread the word and help to make the software even better.
