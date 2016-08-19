@@ -65,10 +65,10 @@ Resolving conflicts is easy with Flyball Master. First step is to eliminate as m
 Release the mouse button to insert the race at the new location. Flyball Master's conflict resolution engine kicks in at this point. Any changes to conflicts are immediately displayed on the screen.
 
 ###Schedule Export
-Once a schedule is created, you can export it out of Flyball Master. The exported file can be used for communications with Clubs attending the event.
+After creating a schedule, you can export it out of Flyball Master. The export file is a comma separated value file (CSV). Open the File in Google Sheets or Excel to create a "pretty" version of the schedule. Typically this pretty schedule becomes the view used for Participants of the Tournament.
 
 ###Schedule Lock
-It is critical that the schedule not change when it is determined to be final. Click the "Lock" button to lock the schedule. Once the schedule is locked, it is not possible to make any changes to the the schedule.
+It is critical that the schedule not change once finalize. Click the "Lock" button to lock the schedule. Once the schedule is locked, it is not possible to make any changes to the schedule.
 
 
 
