@@ -6,6 +6,8 @@ Flyball Master version 1.0 does not create a Tournament schedule. The schedule g
 
 This section details the process to import a schedule, the format needed, and steps to take after the import is complete.
 
+
+
 ###Schedule Import
 
 Flyball Master allows a schedule importing from a comma separated value file (CSV). The format of the file is critical. 
