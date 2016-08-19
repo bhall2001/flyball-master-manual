@@ -1,4 +1,4 @@
-# Flyball Master 1.0 Manual
+# Flyball Master v2016.08 Manual
 
 
 Thank you for your interest in Flyball Master. My goal with this project is to bring a robust, modern scoring application to the sport we love. Flyball Master is an evolving project. There are lots of features to be added to the system. Your feedback is VERY welcome. Please let us know what you like and don't like about the software.
