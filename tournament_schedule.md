@@ -1,12 +1,27 @@
 # Tournament Schedule
 
 ###Overview
+
 Flyball Master version 1.0 does not create a Tournament schedule. The schedule must be imported from an external source. The schedule import should be the first activity when setting up a new Tournament.
 
-This section details the process to import a schedule, the format neeed, and steps to take after the import is complete.
+This section details the process to import a schedule, the format needed, and steps to take after the import is complete.
 
 ###Schedule Import
-Flyball Master allows a schedule to be imported from a comma separated value file (CSV). The format of the file is critical. The following line defines the format. The first line of the file must be the data for Race #1.
+
+Flyball Master allows a schedule to be imported from a comma separated value file (CSV). The format of the file is critical. 
+
+###Naming Conventions
+
+Club Abbreviation: Short 2-4 characters in ALL CAPS representing an abbreviation of a team's club. For data import, there **MUST** be a <space> after the Club abbreviation.
+Example: MC - Short for the club Mass Chaos
+     
+Division: 2 Characters ONLY. The first character must be an R, O, M or V. The second character must be a number from 1-9.
+Example: R1 - Regular 1
+
+
+### Import File Format
+
+The following line defines the format. **The first line of the file must be the data for Race #1.**
 
 ```
 Race Num, Left Team, Right Team, Breakout Time, Race Format, Division<return>
@@ -20,7 +35,7 @@ A sample line of data should look like:
 
 Data Requirements:
 
-### Race Num
+###Race Num
 Must be an integer number starting at 1 (ie. 1, 2, 3...)
 
 ###Left and Right Teams
