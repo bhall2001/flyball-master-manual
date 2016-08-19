@@ -2,22 +2,13 @@
 
 ###Overview
 
-Flyball Master version 1.0 does not create a Tournament schedule. The schedule must be imported from an external source. The schedule import should be the first activity when setting up a new Tournament.
+Flyball Master version 1.0 does not create a Tournament schedule. The schedule gets imported from an external source. The schedule import should be the first activity when setting up a new Tournament.
 
 This section details the process to import a schedule, the format needed, and steps to take after the import is complete.
 
 ###Schedule Import
 
-Flyball Master allows a schedule to be imported from a comma separated value file (CSV). The format of the file is critical. 
-
-###Naming Conventions
-
-Club Abbreviation: Short 2-4 characters in ALL CAPS representing an abbreviation of a team's club. For data import, there **MUST** be a <space> after the Club abbreviation.
-Example: MC - Short for the club Mass Chaos
-     
-Division: 2 Characters ONLY. The first character must be an R, O, M or V. The second character must be a number from 1-9.
-Example: R1 - Regular 1
-
+Flyball Master allows a schedule importing from a comma separated value file (CSV). The format of the file is critical. 
 
 ### Import File Format
 
@@ -33,13 +24,13 @@ A sample line of data should look like:
 1,MC Butterfly Effect,WW Hurricanes,0,3 of 5,M1<return>
 ```
 
-Data Requirements:
+##Data Conventions
 
 ###Race Num
 Must be an integer number starting at 1 (ie. 1, 2, 3...)
 
 ###Left and Right Teams
-Word 1 must be an abbreviation for the team's club name. This ideally should be no more than 4 letters and is prefered to be all Caps. The remaining words are the team name. 
+Word 1 must be an abbreviation for the team's club name. This ideally should be no more than 4 letters and ALL CAPS. The remaining words are the team name. 
 
 In the example line above, MC is the club abbreviation of "Mass Chaos" and "Butterfly Effect" is the team name.
 
