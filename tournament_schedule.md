@@ -48,24 +48,6 @@ Must be a single letter {O, R, M, V} representing the class followed by an numbe
 ###More Information
 Upon importing the schedule, any division or club that is not existing in the data file are created. Also, all teams are added to the event.
 
-###Conflict Resolution
-Flyball Master determines potential team and club conflicts when importing. Any conflicts are indicated by yellow and red circles on each race.
-
-Yellow indicates there is a conflict with the club. Red indicates the team has a conflict.
-
-A conflict is defined by how many races thee are from the current race to the next time the club or team races. The number of races triggering a conflict is configurable.
-
-To change the conflict numbers, navigate to the settings screen. You will see 2 fields there allowing for input of club and team conflict race intervals.
-
-A team should be allowed a minimum 45 minutes of rest before racing again. In a typical single ring, round robin Flyball Tournament, team conflict should be set to 6. In multi-ring tournaments, this number should be multiplied by the number of rings at the event.
-
-It is recommended that a club have a minimum of 3 races between racing so that members are able to transition between races. At multi-rings events, this number should be multiplied by the number of rings at the event.
-
-###Resolving Conflicts
-Resolving conflicts is easy with Flyball Master. First step is to eliminate as many of the red conflicts as you can. Conflict resolution does take some practice. To move a conflicting race to a new location, simply click and drag (hold down the mouse button) to move the race to a new location.
-
-Release the mouse button to insert the race at the new location. Flyball Master's conflict resolution engine kicks in at this point. Any changes to conflicts are immediately displayed on the screen.
-
 ###Schedule Export
 After creating a schedule, you can export it out of Flyball Master. The export file is a comma separated value file (CSV). Open the File in Google Sheets or Excel to create a "pretty" version of the schedule. Typically this pretty schedule becomes the view used for Participants of the Tournament.
 
