@@ -2,7 +2,7 @@
 
 ###Overview
 
-Flyball Master version 1.0 does not create a Tournament schedule. The schedule gets imported from an external source. The schedule import should be the first activity when setting up a new Tournament.
+ Flyball Master version 1.0 does not create a Tournament schedule. The schedule gets imported from an external source. The schedule import should be the first activity when setting up a new Tournament.
 
 This section details the process to import a schedule, the format needed, and steps to take after the import is complete.
 
