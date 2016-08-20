@@ -6,7 +6,7 @@ Flyball Master version 1.0 does not create a Tournament schedule. The schedule g
 
 This section details the process to import a schedule, the format needed, and steps to take after the import is complete.
 
-
+![Scheduling Screen](Screen Shot 2016-08-20 at 6.11.19 AM.png)
 
 ###Schedule Import
 
