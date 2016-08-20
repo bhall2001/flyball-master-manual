@@ -8,7 +8,7 @@ Conflict determination is by the number of races the next time the team or club 
 
 To change the conflict numbers, navigate to the Settings screen. You will see 2 fields. Enter the number of races for both Team and Club conflict determination.
 
-![conflict settings](Screen Shot 2016-08-20 at 6.26.39 AM.png)
+![conflict settings](Screen Shot 2016-08-20 at 6.28.40 AM.png)
 
 ###Team Conflict Minimum
 A team needs a minimum 45 minutes of rest before racing again. In a typical single ring, round robin Flyball Tournament, team conflicts should be set to minimum of 6. 
