@@ -1,4 +1,4 @@
-# Conflict Resolution
+#Conflict Resolution
 
 Flyball Master determines potential team and club conflicts when importing. A race that with a conflict shows either a yellow or red ball next to the race details. Races with no conflicts display a green ball.
 
