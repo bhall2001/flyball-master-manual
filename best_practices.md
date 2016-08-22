@@ -6,6 +6,8 @@ If there is a conflict, the dot next to the race indicates whether the conflict 
 
 On the right side of each race, there are 4 numbers. The first pairing of numbers indicates how many races to the NEXT race for the left and right Clubs. The second pairing of numbers indicates how many races to the NEXT race for the left and right Teams. Any number highlighted in red is the number causing a conflict.
 
+The next race gap is a parameter that you can change on the Settings Screen.
+
 Team conflicts are higher priority and will display even if there is a club conflict. (Race 9 above has both a Left Club conflict and a Right Team conflict. The race receives a red dot for the Team conflict.)
 
 If a race has a yellow or red dot yet the Club and Team numbers are not in red implies the conflict is in a PRIOR race. This is the race that is in conflict with that prior race. (Race 14 in the graphic above. There is a club conflict with race 11)
