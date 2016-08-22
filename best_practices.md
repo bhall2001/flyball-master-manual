@@ -1,15 +1,16 @@
 #Best Practices
-Our reccomendation for the most effeciant method to resolve conflicts is as follows.
 
 ![Conflict Resolution](Screen Shot 2016-08-22 at 7.46.51 AM.png)
 
-On the right side of each race, there are 4 numbers. The first pairing of number indicates how many races there are for the left and right Clubs. The second pairing of numbers indicates how many races there are for the left and right Teams.
+On the right side of each race, there are 4 numbers. The first pairing of numbers indicates how many races to the NEXT race for the left and right Clubs. The second pairing of numbers indicates how many races to the NEXT race for the left and right Teams.
 
 If there is a conflict, the dot next to the race indicates whether the conflict is a team or club conflict. Team conflicts are higher priority and will display even if there is a club conflict.
 
-Green indicates there are not conflicts. Yellow indicates a club conflict. Red is a Team conflict. The number on the right causing the conflict highlights in red.
+Green indicates there are no conflicts. Yellow indicates a club conflict. Red is a Team conflict. The number on the right causing the conflict highlights in red.
 
-If a race is shown to be in conflict yet the Club and Team next race numbers are not in red indicates that the conflict is in a PRIOR race for the Club or Team and this is the race that is conflicted with that race.
+If a race has a yellow or red dot yet the Club and Team next race numbers are not in red implies the conflict is in a PRIOR race for the Club or Team. This is the race that is in conflict with that prior race. (Race 14 in the graphic above. There is a club conflict with race 11)
+
+Our recommendation for the most efficient method to resolve conflicts is as follows.
 
 1) Starting at race 1, look for Team conflicts (red dots). When a conflict is located, look at the red number in the team conflict column. This number indicates how close the Team's next race is.
 
@@ -23,9 +24,11 @@ NOTE: If the event has a break for lunch or is a multi-day event, having red dot
 
 5) Starting from Race one, do the same process for club conflicts. Do not attempt to resolve club conflicts until all team conflicts are resolve.
 6) Look for a yellow dot in the schedule. The red number in the Club Conflict column indicates the number of races until the next club race.
-7) Subtract 3 from this number.
+7) Subtract this number from 4.
 8) Double click the race with the club conflict. Assign the new race number to be the current race number minus the result from step 7.
 9) If a team conflict results, resolve this before moving on with club conflicts.
+
+Note: This process does result in an infinite loop many times and you may need to  move a club an extra race or insert a non-conflicting club between the 2 races that can not be resovled.
 
 Note: A club conflict is not as critical as a team conflict. Club conflicts may indicate that a race may delay as a club swaps dogs for the next race.
 
@@ -36,4 +39,6 @@ Note: It may not be possible to eliminate all club tournaments.
 Note: Our experience is 30% club conflicts is an acceptable number. 
 
 Note: Tournaments seem to flow better if club conflicts are minimized at the start of the tournament and the end of a tournament. This allows clubs to get into the swing of things at the start of a tournament and leaves a good impression of a well flowing tournament as the event closes. Do your best to have many green dots at the start and end of your tournament in the schedule.
+
+Note: Elimanting all conflicts is impossible. At some point you have to admit the schedule is as good as you can get it and call it good ;-) 
 
