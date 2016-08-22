@@ -40,5 +40,5 @@ Note: Our experience is any number less than 30% club conflicts is acceptable.
 
 Note: Tournaments seem to flow better if club conflicts are minimized at the start and the end of a tournament. This allows clubs to get into the swing of things when the tournament starts. Also, a smooth ending leaves a good impression of a well flowing tournament. Do your best to have as many green dots as you can at the start and end of your tournament in the schedule.
 
-Note Again: Eliminating all conflicts is impossible. At some point you have to admit the schedule is as good as you can get it and call it good ;-) 
+Note Again: **ELIMINATING ALL CONFLICTS IS IMPOSSIBLE**. At some point you have to admit the schedule is as good as you can get it and call it good ;-) 
 
