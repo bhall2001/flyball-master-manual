@@ -3,6 +3,14 @@ Our reccomendation for the most effeciant method to resolve conflicts is as foll
 
 ![Conflict Resolution](Screen Shot 2016-08-22 at 7.46.51 AM.png)
 
+On the right side of each race, there are 4 numbers. The first pairing of number indicates how many races there are for the left and right Clubs. The second pairing of numbers indicates how many races there are for the left and right Teams.
+
+If there is a conflict, the dot next to the race indicates whether the conflict is a team or club conflict. Team conflicts are higher priority and will display even if there is a club conflict.
+
+Green indicates there are not conflicts. Yellow indicates a club conflict. Red is a Team conflict. The number on the right causing the conflict highlights in red.
+
+If a race is shown to be in conflict yet the Club and Team next race numbers are not in red indicates that the conflict is in a PRIOR race for the Club or Team and this is the race that is conflicted with that race.
+
 1) Starting at race 1, look for Team conflicts (red dots). When a conflict is located, look at the red number in the team conflict column. This number indicates how close the Team's next race is.
 
 2) Subtract this number from 7 (for single ring tournaments). Remember this number.
