@@ -17,15 +17,13 @@ NOTE: If the event has a break for lunch or is a multi-day event, having red dot
 8) Double click the race with the club conflict. Assign the new race number to be the current race number minus the result from step 7.
 9) If a team conflict results, resolve this before moving on with club conflicts.
 
-Note: A club conflict is not as critical as a team conflict to the tournament. Club conflicts may indicate that a race may delay as a club swaps dogs for the next race.
+Note: A club conflict is not as critical as a team conflict. Club conflicts may indicate that a race may delay as a club swaps dogs for the next race.
 
 Note: Club Conflicts are OK around any planned breaks in the tournament schedule (lunch, next day).
 
-Note: Smaller tournaments and multi-ring tournaments it may not be possible to eliminate club tournaments. 
+Note: It may not be possible to eliminate all club tournaments. 
 
 Note: Our experience is 30% club conflicts is an acceptable number. 
 
-Note: Tournaments seem to flow better if club conflicts are minimized at the start of the tournament and the end of a tournament. 
-
-This allows clubs to get into the swing of things at the start of a tournament and leaves a good impression of a well flowing tournament as the event closes.
+Note: Tournaments seem to flow better if club conflicts are minimized at the start of the tournament and the end of a tournament. This allows clubs to get into the swing of things at the start of a tournament and leaves a good impression of a well flowing tournament as the event closes. Do your best to have many green dots at the start and end of your tournament in the schedule.
 
