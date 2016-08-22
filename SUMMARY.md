@@ -8,4 +8,5 @@
    * [Conflict Resolution](conflict_resolution.md)
 * Teams
 * Scoring
+* Clubs
 
