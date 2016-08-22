@@ -3,7 +3,7 @@ The Club screen lists all the clubs in the Tournament. The club name, abbreviati
 
 ![Club Screen](Screen Shot 2016-08-22 at 6.33.51 AM.png)
 
-Double clicking a Club or selecting a line and pressing the <Edit> button to open the Club Edit screen.
+Double clicking a Club or selecting a line and pressing the Edit Club button to open the Club Edit screen.
 
 ###Club Edit
 The Club Edit screen updates the details of a Clubs. Type the NAFA ID of the club and press the <Lookup> button. Flyball Master retrieves the data about the club from the NAFA database to populate the fields.
