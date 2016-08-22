@@ -1,7 +1,7 @@
 #Best Practices
 Our reccomendation for the most effeciant method to resolve conflicts is as follows.
 
-
+![Conflict Resolution](Screen Shot 2016-08-22 at 7.46.51 AM.png)
 
 1) Starting at race 1, look for Team conflicts (red dots). When a conflict is located, look at the red number in the team conflict column. This number indicates how close the Team's next race is.
 
