@@ -43,7 +43,7 @@ Must be a number. For divisions with no breakout time use "0".
 Must be text. The data must be of the form "x of y". Examples are "3 of 5" or "4 of 4".
 
 ###Division
-Must be a single letter {O, R, M, V} representing the class followed by an number.
+Must be a single letter {O, R, M, V} representing the class followed by a number {0,1,2,3,4,5,6,7,8,9}.
 
 ###More Information
 Upon importing the schedule, any division or club that is not existing in the data file are created. Also, all teams are added to the event.
