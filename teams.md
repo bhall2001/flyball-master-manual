@@ -22,3 +22,6 @@ NAFA does not store information on Jump height. This must be manually entered.
 All fields are editable. Simply click in the field and modify the data as needed.
 
 When a team changes the lineup, simply enter in the new CRN and press RETURN. The new dog information over-writes the existing data.
+
+###NAFA Scoring File
+Ghost teams are supported by Flyball Master. If this team should not be included in the NAFA scoring file, simply uncheck the NAFA Scoring File box and the team will not be included in the scoring file.
