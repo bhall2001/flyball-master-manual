@@ -13,7 +13,7 @@ Double click a team or select the Team and press the Edit Team button to go to t
 Many of the Team Data fields are pre-populated from either the schedule of are calulated as a tournament progresses. These numbers can be over-ridden by replacing the value in the appropriate location.
 
 ###Team Dogs
-A pop-up menu displays the dogs for the current team. This menu does contain all teams in the tournament but will always defualt to the current team. If this Team is an open team, dogs on other teams are easily accesible form the pop-up menu.
+A pop-up menu displays the dogs for the current team. This menu does contains all teams in the tournament but will always default to the current team. If this Team is an open team, dogs on other teams are easily accessible form the pop-up menu.
 
 NAFA data for a dog is looked up from the NAFA database. In the CRN field for a dog, enter the CRN. Press RETURN on the keyboard and the information about the dog is inserted into the appropriate fields.
 
