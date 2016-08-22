@@ -7,9 +7,9 @@ DO NOT ENTER ANY INFORMATION FOR DIVISIONS, CLUBS OR TEAMS PRIOR TO A SCHEDULE I
 
 Start by generating a schedule outside of Flyball Master. The schedule should only be a very rough schedule. Import this schedule into Flyball Master. Use Flyball Master's Schedule Conflict Resolution to finalize the schedule.
 
-Once a schedule is finalized, export this schedule out of Flyball Master and LOCK the schedule in Flyball Master.
+Now export the final schedule out of Flyball Master and LOCK the schedule in Flyball Master.
 
-Once a final schedule is created, Division, Club and Team data should be entered into the system.
+Enter Division, Club and Team data into the Flyball Master software.
 
 
 
