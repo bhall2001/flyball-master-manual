@@ -2,10 +2,10 @@
 
 Flyball Master determines potential team and club conflicts when importing. A race that with a conflict shows either a yellow or red ball next to the race details. Races with no conflicts display a green ball.
 
-Yellow dots indicates there is a conflict with the club. Red dots indicates the team has a conflict. 
+Yellow dots indicate there is a conflict with the club. Red dots indicate the team has a conflict. 
 
 ![schedule conflicts](Screen Shot 2016-08-20 at 6.34.08 AM.png)
-(note: Club color may be yellow or red. A team the highlited in yellow or red signifies the Club color, not a conflict.)
+(note: Club color may be yellow or red. A team highlighted in yellow or red signifies the Club color, not a conflict.)
 
 Conflict determination is by the number of races the next time the team or club appear again in the schedule. The number of races triggering a conflict is configurable on the Settings screen.
 
