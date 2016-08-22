@@ -2,13 +2,13 @@
 
 ![Conflict Resolution](Screen Shot 2016-08-22 at 7.46.51 AM.png)
 
-On the right side of each race, there are 4 numbers. The first pairing of numbers indicates how many races to the NEXT race for the left and right Clubs. The second pairing of numbers indicates how many races to the NEXT race for the left and right Teams.
+If there is a conflict, the dot next to the race indicates whether the conflict is a team or club conflict. A Green dot indicates there are no conflicts for a race. A Yellow dot indicates there is a club conflict. A Red dot indicates there is a Team conflict.
 
-If there is a conflict, the dot next to the race indicates whether the conflict is a team or club conflict. Team conflicts are higher priority and will display even if there is a club conflict.
+On the right side of each race, there are 4 numbers. The first pairing of numbers indicates how many races to the NEXT race for the left and right Clubs. The second pairing of numbers indicates how many races to the NEXT race for the left and right Teams. Any number highlighted in red is the number causing a conflict.
 
-Green indicates there are no conflicts. Yellow indicates a club conflict. Red is a Team conflict. The number on the right causing the conflict highlights in red.
+Team conflicts are higher priority and will display even if there is a club conflict. (Race 9 above has both a Left Club conflict and a Right Team conflict. The race receives a red dot for the Team conflict.)
 
-If a race has a yellow or red dot yet the Club and Team next race numbers are not in red implies the conflict is in a PRIOR race for the Club or Team. This is the race that is in conflict with that prior race. (Race 14 in the graphic above. There is a club conflict with race 11)
+If a race has a yellow or red dot yet the Club and Team numbers are not in red implies the conflict is in a PRIOR race. This is the race that is in conflict with that prior race. (Race 14 in the graphic above. There is a club conflict with race 11)
 
 Our recommendation for the most efficient method to resolve conflicts is as follows.
 
@@ -20,7 +20,7 @@ Our recommendation for the most efficient method to resolve conflicts is as foll
 
 4) Continue this process through all the races until all the red dots are gone.
 
-NOTE: If the event has a break for lunch or is a multi-day event, having red dots around these breaks is OK. Teams that are in conflict receive the enough rest time due to the break. Smaller tournaments should plan to cluster team and club conflicts around these breaks.
+NOTE: If the event has a break for lunch or is a multi-day event, having red dots around these breaks is OK. Teams that are in conflict receive enough rest time due to the break. Smaller tournaments should plan to cluster team and club conflicts around these breaks.
 
 5) Starting from Race one, do the same process for club conflicts. Do not attempt to resolve club conflicts until all team conflicts are resolve.
 6) Look for a yellow dot in the schedule. The red number in the Club Conflict column indicates the number of races until the next club race.
