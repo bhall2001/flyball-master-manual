@@ -6,7 +6,7 @@
 * [Divisions](divisions.md)
 * [Schedule](tournament_schedule.md)
    * [Conflict Resolution](conflict_resolution.md)
+* Clubs
 * Teams
 * Scoring
-* Clubs
 
