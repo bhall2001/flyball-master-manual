@@ -8,5 +8,6 @@
 * [Teams](teams.md)
 * [Schedule](tournament_schedule.md)
    * [Conflict Resolution](conflict_resolution.md)
+   * Best Practices
 * [Scoring](scoring.md)
 
