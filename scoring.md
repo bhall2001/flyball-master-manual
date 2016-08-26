@@ -22,3 +22,6 @@ Flyball Master calculates points for Dogs running according to NAFA Rules. Tourn
 If a race time causes a breakout, the Scoring screen turns red and an notice is displayed. The Scorer should notify the Judge a breakout has occured and then close the breakout notice. Flyball master handles scoring the breakout automatically.
 
 If the breakout was the result of an error in the race time, simply over-write the information that is automatically entered. 
+
+###Online "On Deck" update
+When racing completes, the system is able to update the current race number and store this online. 
