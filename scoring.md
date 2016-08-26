@@ -24,4 +24,9 @@ If a race time causes a breakout, the Scoring screen turns red and an notice is 
 If the breakout was the result of an error in the race time, simply over-write the information that is automatically entered. 
 
 ###Online "On Deck" update
-When racing completes, the system is able to update the current race number and store this online. 
+When racing completes, the system is able to update the current race number and store this online. Clicking the race number for the Ring number, advances the current race number by 1. This number is not tied at all to scoring and is used for participants to see which race is in each ring.
+
+###Scoring Next Race
+Once all data is entered and confirmed for the current race, click the right arrow at the top of the screen to advance scoring to the next race.
+
+
