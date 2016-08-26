@@ -15,5 +15,10 @@ Click or tab to the left team's Heat 1 dog entry field. Enter the numbers for th
 
 Frequently, the dogs for each heat are the same. To copy the dogs from the previous heat press the space bar, return or enter key.
 
+###Dog and Tournament Points
+Flyball Master calculates points for Dogs running according to NAFA Rules. Tournament points are updates as each heat completes based on information entered on for each Division.
 
+###Breakout
+If a race time causes a breakout, the Scoring screen turns red and an notice is displayed. The Scorer should notify the Judge a breakout has occured and then close the breakout notice. Flyball master handles scoring the breakout automatically.
 
+If the breakout was the result of an error in the race time, simply over-write the information that is automatically entered. 
