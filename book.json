@@ -1,7 +1,8 @@
 {
     "plugins": [
         "-fontsettngs",
-        "-sharing"
+        "-sharing",
+        "theme-faq"
     ],
     "pluginsConfig": {}
 }
