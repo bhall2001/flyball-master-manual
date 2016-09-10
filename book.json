@@ -1,0 +1,8 @@
+{
+    "plugins": [
+        "-theme-faq",
+        "-fontsettngs",
+        "-sharing"
+    ],
+    "pluginsConfig": {}
+}
