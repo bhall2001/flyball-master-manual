@@ -2,3 +2,9 @@
 .book-summary {
   width: 200px;
   }
+  
+  @media (min-width:600px) {
+    .book.with-summary .book-body {
+        left: 200px
+    }
+}
