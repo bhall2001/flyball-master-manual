@@ -3,7 +3,7 @@
 
 Thank you for your interest in Flyball Master. My goal with this project is to bring a robust, modern scoring application to the sport we love. Flyball Master is an evolving project. We have a lot of great ideas for the software. Your feedback is VERY welcome. Please let us know what you like and don't like about the software.
 
-![dashboard screen](Screen Shot 2016-08-20 at 6.14.24 AM.png)
+![dashboard screen](dashboard.png)
 ## Features
 Everything you need to Score and Inform including:
 
