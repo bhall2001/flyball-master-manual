@@ -10,4 +10,5 @@
    * [Conflict Resolution](conflict_resolution.md)
    * [Best Practices](best_practices.md)
 * [Scoring](scoring.md)
+* Release Notes
 
