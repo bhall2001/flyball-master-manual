@@ -17,6 +17,10 @@ A pop-up menu displays the dogs for the current team. This menu does contains al
 
 NAFA data for a dog is looked up from the NAFA database. In the CRN field for a dog, enter the CRN. Press RETURN on the keyboard and the information about the dog is inserted into the appropriate fields.
 
+CRN's entry is capable from the dog list as well. Posting the mouse over the CRN field that should be filled in. Click to set the insertion bar to this field. Navigate to the scrolling list of dogs to located the desired CRN. Now double-click the CRN to insert the dog at the line selected.
+
+It is also possible to select dogs from other teams with the Team pop-up menu above the CRN Dog List. Position the mouse over this pop-up menu and click/hold the mouse button to open the menu. Select the team needed to display the list of dogs for that team.
+
 NAFA does not store information on Jump height. This must be manually entered.
 
 All fields are editable. Simply click in the field and modify the data as needed.
