@@ -7,6 +7,7 @@ All notable changes to Flyball Master get documented in this file.
 - Added Release notes (FINALLY!)
 - Fixed NAFA Scoring File sometimes needed to be generated twice to get dog points
 - Fixed issue with NAFA Scoring File check box on Team Edit screen
+- Fixed issue with Judges pop-up menu sometimes showing no Judges in selection
 
 ## 2016.9
 - Added Performance Teams
