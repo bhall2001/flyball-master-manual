@@ -29,4 +29,7 @@ When racing completes, the system is able to update the current race number and 
 ###Scoring Next Race
 Once all data is entered and confirmed for the current race, click the right arrow at the top of the screen to advance scoring to the next race.
 
+### Eyes On/Off
+Flyball Master alerts the Scorer when a Veterans team is running. The alert reminds the Scorekeeper to turn the "Eyes On" for the timing system. An alert appears after the Vet race indicating the Scorekeeper should turn the Eyes off.
+
 
