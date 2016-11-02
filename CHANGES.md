@@ -2,6 +2,7 @@
 All notable changes to Flyball Master get documented in this file.
 
 ## 2016.10
+- Added Auto Advance Online Race Numbers
 - Added printing Team Lineup Labels for Dog CRN and Name
 - Added Eyes On/Eyes Off for Vet races
 - Added Release notes (FINALLY!)
