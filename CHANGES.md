@@ -8,17 +8,19 @@ All notable changes to Flyball Master...
 * Better 10 key support with Win Left ="/", Win Right ="\*", Tie = "=" and No Finish="-"
 * Scoring Screen displays only total potential heats for race
 * Built with Livecode 8.1.3 
-* Added Save data on Team Screen
-* 
+* Added additional auto-save data throughout
+
+
+
 ## 2017.1
 
 * Multi-ring networking completely re-done
+* Updated FBM Scoring to include most of the Scoring Features of Flyball Master
 * Added FBM Jumbotron \(aka. Scoreboard\)
 * Advance to Next Race is more automated.
 * Added XXX Breakout tracking per team
 * W/L/T UI Fixed
-
-## 2016.10
+* ## 2016.10
 
 * Added Eyes On/Eyes Off for Vet races
 * Added Release notes \(FINALLY!\)
