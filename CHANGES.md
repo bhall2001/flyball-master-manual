@@ -8,9 +8,7 @@ All notable changes to Flyball Master...
 * Better 10 key support with Win Left ="/", Win Right ="\*", Tie = "=" and No Finish="-"
 * Scoring Screen displays only total potential heats for race
 * Built with Livecode 8.1.3 
-* Added additional auto-save data throughout
-
-
+* Added additional auto-saves
 
 ## 2017.1
 
@@ -21,8 +19,8 @@ All notable changes to Flyball Master...
 * Added XXX Breakout tracking per team
 * W/L/T UI Fixed
 * ## 2016.10
-
 * Added Eyes On/Eyes Off for Vet races
+
 * Added Release notes \(FINALLY!\)
 * Fixed issue with NAFA Scoring File check box on Team Edit screen
 
