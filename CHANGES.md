@@ -5,7 +5,7 @@ All notable changes to Flyball Master...
 ## 2017.2
 
 * Added Ringside Display with Race Details and Heat Lamps
-* Scoring Screen indicates Left Lane Win with "/", Right Lane win with "\*" and tie with "="
+* Better 10 key support with Win Left ="/", Win Right ="\*", Tie = "=" and No Finish="-"
 * Scoring Screen displays only total potential heats for race
 * Built with Livecode 8.1.3 
 
