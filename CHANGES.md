@@ -9,6 +9,7 @@ All notable changes to Flyball Master...
 * Scoring Screen displays only total potential heats for race
 * Built with Livecode 8.1.3 
 * Added additional auto-saves
+* Allows import of "x/y" race formatting
 
 ## 2017.1
 
@@ -22,6 +23,7 @@ All notable changes to Flyball Master...
 * Added Eyes On/Eyes Off for Vet races
 
 * Added Release notes \(FINALLY!\)
+
 * Fixed issue with NAFA Scoring File check box on Team Edit screen
 
 ## 2016.9
