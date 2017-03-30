@@ -21,11 +21,12 @@ All notable changes to Flyball Master...
 * Advance to Next Race is more automated.
 * Added XXX Breakout tracking per team
 * W/L/T UI Fixed
-* ## 2016.10
+* built with Livecode 8.1.2
+
+## 2016.10
+
 * Added Eyes On/Eyes Off for Vet races
-
 * Added Release notes \(FINALLY!\)
-
 * Fixed issue with NAFA Scoring File check box on Team Edit screen
 
 ## 2016.9
