@@ -11,6 +11,7 @@ All notable changes to Flyball Master...
 * Added additional auto-saves
 * Club and Team conflicts crossing day boundry no longer show as a conflict
 * Changing Divison breakout time now correctly updates schedule
+* Allows import of "x/y" race formatting
 
 ## 2017.1
 
