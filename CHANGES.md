@@ -4,8 +4,11 @@ All notable changes to Flyball Master...
 
 ## 2017.2.2
 
-* Auto Save every 30 seconds.
-* Replaced Save Alert with On-screen notification
+Fixed bug where trailing spaces on import caused software to hang
+
+Auto Save every 30 seconds.
+
+Replaced Save Alert with On-screen notification
 
 ## 2017.2
 
