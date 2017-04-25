@@ -4,9 +4,13 @@ All notable changes to Flyball Master...
 
 ## 2017.2.2
 
+* Updated Eyes On/Off to include new Open divisions
+* Eyes On/Off alert after move to next race alert
+* Result/Schedule data sent to Flyball Master.com via API calls
 * Fixed bug where trailing spaces on import caused software to hang
 * Auto Save every 30 seconds.
 * Replaced Save Alert with On-screen notification
+* built with Livecode 8.1.3
 
 ## 2017.2
 
