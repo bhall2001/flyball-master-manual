@@ -2,6 +2,18 @@
 
 All notable changes to Flyball Master...
 
+## 2017.3
+
+Fixed Save As file becomes main file
+
+Fixed Division Format overwrite's schedule's format
+
+Added Teams sent to flyballmaster.com
+
+Added Online Team Results
+
+
+
 ## 2017.2.2
 
 * Updated Eyes On/Off to include new Open divisions
