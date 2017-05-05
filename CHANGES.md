@@ -4,15 +4,15 @@ All notable changes to Flyball Master...
 
 ## 2017.3
 
-Fixed Save As file becomes main file
-
-Fixed Division Format overwrite's schedule's format
+Added Double click dog in Club list inserts into next available spot on team list
 
 Added Teams sent to flyballmaster.com
 
 Added Online Team Results
 
+Fixed Save As file becomes main file
 
+Fixed Division Format overwrite's schedule's format
 
 ## 2017.2.2
 
