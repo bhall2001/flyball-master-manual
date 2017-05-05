@@ -9,6 +9,7 @@ All notable changes to Flyball Master...
 * Added Online Team Results
 * Fixed Save As file becomes main file
 * Fixed Division Format overwrite's schedule's format
+* Fixed Dog Label Background on Windows now white
 
 ## 2017.2.2
 
